@@ -1,0 +1,6 @@
+framework module Pods_FinBot {
+  umbrella header "Pods-FinBot-umbrella.h"
+
+  export *
+  module * { export * }
+}

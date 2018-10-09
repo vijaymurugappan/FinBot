@@ -1,0 +1,57 @@
+
+/* Class = "UITextField"; placeholder = "US Phone/Email Address"; ObjectID = "3xL-Od-hb9"; */
+"3xL-Od-hb9.placeholder" = "US Phone/Email Address";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "3yZ-po-pV4"; */
+"3yZ-po-pV4.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "5yN-Xa-sC9"; */
+"5yN-Xa-sC9.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "LINE CHARTS"; ObjectID = "69R-kv-MCi"; */
+"69R-kv-MCi.text" = "LINE CHARTS";
+
+/* Class = "UIButton"; normalTitle = "RESET PASSWORD"; ObjectID = "6DQ-eC-c70"; */
+"6DQ-eC-c70.normalTitle" = "RESET PASSWORD";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "8Kq-A0-XGm"; */
+"8Kq-A0-XGm.normalTitle" = "DONE";
+
+/* Class = "UILabel"; text = "if you haven't signed up yet?"; ObjectID = "H5m-vz-xrc"; */
+"H5m-vz-xrc.text" = "if you haven't signed up yet?";
+
+/* Class = "UITextField"; placeholder = "Email Address"; ObjectID = "Hhz-sT-Mfs"; */
+"Hhz-sT-Mfs.placeholder" = "Email Address";
+
+/* Class = "UIButton"; normalTitle = "<<"; ObjectID = "J5A-UO-A5v"; */
+"J5A-UO-A5v.normalTitle" = "<<";
+
+/* Class = "UIButton"; normalTitle = ">>"; ObjectID = "Qai-9y-OH9"; */
+"Qai-9y-OH9.normalTitle" = ">>";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "RI1-t1-Euf"; */
+"RI1-t1-Euf.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "dFc-Fi-5fG"; */
+"dFc-Fi-5fG.normalTitle" = "LOGIN";
+
+/* Class = "UINavigationItem"; title = "LOGIN"; ObjectID = "ffg-qO-ppy"; */
+"ffg-qO-ppy.title" = "LOGIN";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "gbg-P9-y7T"; */
+"gbg-P9-y7T.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "US Phone/Email Address"; ObjectID = "kJs-lD-QX8"; */
+"kJs-lD-QX8.placeholder" = "US Phone/Email Address";
+
+/* Class = "UIButton"; normalTitle = "SIGN UP"; ObjectID = "lES-3b-APr"; */
+"lES-3b-APr.normalTitle" = "SIGN UP";
+
+/* Class = "UITabBarItem"; title = "Dashboard"; ObjectID = "nSr-5o-uDd"; */
+"nSr-5o-uDd.title" = "Dashboard";
+
+/* Class = "UITextField"; placeholder = "Retype Password"; ObjectID = "srV-q7-L01"; */
+"srV-q7-L01.placeholder" = "Retype Password";
+
+/* Class = "UILabel"; text = "forgot your password?"; ObjectID = "t3V-i3-xO7"; */
+"t3V-i3-xO7.text" = "forgot your password?";
